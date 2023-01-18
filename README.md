@@ -15,3 +15,4 @@ then you can clear the migrations by entering,
 Them 
 ## python manage.py makemigrations
 ## python manage.py migate
+## python manage.py runserver

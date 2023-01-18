@@ -1,10 +1,10 @@
 ## healthos##
 ________________________________________________________
 All documentstiona & postman json is located at 
-# Documents/
+# /Documents/
 Source file is located at
 
-#src/Backend/
+# /src/Backend/
 
 to run this project at first run,
 ## pip inatall -r requirements.txt

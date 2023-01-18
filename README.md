@@ -7,6 +7,7 @@ Source file is located at
 # /src/Backend/
 
 to run this project at first run,
+## python -m venv venv
 ## pip inatall -r requirements.txt
 
 then you can clear the migrations by entering,
